@@ -1,0 +1,105 @@
+Essentials (2h6m)
+Django is a robust and powerful framework with a lot of moving parts. Although starting a new project can be quite easy, there is a lot to uncover. This course teaches fundamentals, such as what a framework is, what an HTTP request is, and how Django replies to HTTP requests. Software developer and podcaster Leticia Portella walks you through each step of building a working system that can create, edit, and list books per user with an authentication system. Topics include getting started, creating users and data, ORMs, creating a dynamic template, Django class-based files and static views, and so much more!
+
+Introduction
+What is Django? 52s
+What you will need to start a Django project 50s
+
+1. Starting Your Django Project
+Creating a new Django project 3m 2s
+Minimum working page 4m 55s
+Creating your first Django template 3m 38s
+Django apps and the concept of modularization 3m 28s
+
+2. Django Built-In User Management
+Creating users in Django 3m 49s
+Django admin: Easily visualizing and creating data 2m 52s
+User authentication in two simple steps 3m 14s
+
+3. How Django Interacts with Databases
+Introduction to ORMs 1m 21s
+Creating your first model 3m 15s
+Using admin for data creation and manipulation 3m
+Using Django shell for creating and querying data 4m 42s
+
+4. Building Dynamic Webpages
+Creating a dynamic template 5m 19s
+Display content of a single note 5m 32s
+Introduction to Django class-based views 4m 58s
+A bit more on class-based views 3m 56s
+
+5. Building a Robust Front End in Django
+Static files in Django 4m
+How to set up a base HTML for every Django template 4m 31s
+Let's add some style 8m 9s
+
+6. Django Forms: Validation Shouldn’t Be Hard
+Create a webpage 5m 11s
+Understanding how Django handles security in POSTs 2m 10s
+Django forms: Powerful validation with minimal work 4m 53s
+Django forms are useful for layout as well! 2m 32s
+
+7. Working with Existing Data
+The U in the CRUD: Updating data 3m 44s
+The D in the CRUD: Deleting data 4m 16s
+
+8. Using Django to Store and Display User-Specific Data
+ForeignKey: How models relate to each other 4m 22s
+Displaying only the logged user data 3m 45s
+Adding a new note after ForeignKey 3m 57s
+
+9. Login, Logout, and Signup Are Simple
+Adding login and logout pages 6m 10s
+Adding a signup page 5m 43s
+Finishing touches 3m 56s
+
+
+Building React and Django Apps (56m)
+Discover how to combine the robust front-end functionality of the React framework with the best of the Django back end to build full-stack applications. In this course, join Rudolf Olah as he demonstrates how to wire together the two frameworks, add pagination, secure, and test your applications. Throughout the course, discover how to prepare your React code for production and communicate between the front-end and back-end servers using Axios. Plus, learn how to implement filtering with React and Django, build your own custom React hook, and use unit testing and end-to-end testing to ensure that your app is ready for production.
+
+
+Introduction
+Create a full-stack React app with Django REST framework(Viewed) 40s
+What you should know 1m 8s
+Demo project overview 43s
+
+1. Django and React Preparation
+Running the React and Django development servers 53s
+Preparing React code for production 54s
+Serving React code through Django's static files 47s
+Navigating between React components using React Router 2m 32s
+
+2. Filtering and Pagination with Django and React
+Creating a ViewSet with Django 1m 2s
+Displaying a list of items with React 2m 47s
+Deleting an item using React and Django 1m 49s
+Partially updating an item using React 1m 50s
+Pagination with Django 38s
+Pagination with React 3m 31s
+Filtering with Django 1m 56s
+Filtering with React 4m 44s
+
+3. Forms with React and Django
+Handling creating models with Django REST framework 1m 39s
+Creating a REST API Service class with React and Axios 2m 24s
+Creating a basic form as a React component 2m 22s
+Creating form fields for basic form 2m 6s
+Connecting a React component to a service 2m 26s
+Validating form data with Django REST framework 54s
+Displaying validation errors with React 1m 23s
+
+4. Refactoring React with Hooks and Higher-Order Components
+Using timers with state to display data 1m 11s
+Creating a higher-order component with React 1m 38s
+Using React hooks and refactoring a component to use hooks 1m 48s
+Refactoring a higher-order component to use hooks 2m 50s
+
+5. Testing React and Django
+Unit testing a component 1m 44s
+Unit testing two React routes and navigation between components 2m 15s
+End2End testing the form submission process 1m 30s
+End2End testing the filtered data table 48s
+Unit testing caching with Django REST framework 50s
+Unit testing sorting and filtering 1m 37s
+Unit testing validation for the REST API 59s
+

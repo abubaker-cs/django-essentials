@@ -1,0 +1,38 @@
+Introduction
+What is Django? 52s
+What you will need to start a Django project 50s
+
+1. Starting Your Django Project
+Creating a new Django project 3m 2s
+Minimum working page 4m 55s
+Creating your first Django template 3m 38s
+Django apps and the concept of modularization 3m 28s
+
+2. Django Built-In User Management
+Creating users in Django 3m 49s
+Django admin: Easily visualizing and creating data 2m 52s
+User authentication in two simple steps 3m 14s
+
+3. How Django Interacts with Databases
+Introduction to ORMs 1m 21s
+Creating your first model 3m 15s
+Using admin for data creation and manipulation 3m
+Using Django shell for creating and querying data 4m 42s
+
+4. Building Dynamic Webpages
+Creating a dynamic template 5m 19s
+Display content of a single note 5m 32s
+Introduction to Django class-based views 4m 58s
+A bit more on class-based views 3m 56s
+
+5. Building a Robust Front End in Django
+Static files in Django 4m
+How to set up a base HTML for every Django template 4m 31s
+Let's add some style 8m 9s
+
+6. Django Forms: Validation Shouldn’t Be Hard
+Create a webpage 5m 11s
+Understanding how Django handles security in POSTs 2m 10s
+Django forms: Powerful validation with minimal work 4m 53s
+Django forms are useful for layout as well! 2m 32s
+

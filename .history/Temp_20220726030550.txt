@@ -1,0 +1,10 @@
+Introduction
+What is Django? 52s
+What you will need to start a Django project 50s
+
+1. Starting Your Django Project
+Creating a new Django project 3m 2s
+Minimum working page 4m 55s
+Creating your first Django template 3m 38s
+Django apps and the concept of modularization 3m 28s
+
